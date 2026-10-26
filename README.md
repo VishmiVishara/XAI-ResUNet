@@ -52,8 +52,8 @@ python main.py --model "XAIResUnet_Vanilla" --epoch "100"
 ## Contact
 Please feel free to raise an issue or contact me at vayangi.ganepola2@mail.dcu.ie with any queries or for discussions.
 
-## Acknowledgement
-
+## Citation
+If you use our work, please cite our paper:
 ```
 @inproceedings{ganepola2024xai,
   title={XAI-ResUNet: analysing the impact of pre-training in ResUNet architectures for multiple sclerosis lesion segmentation using EigenGradCAM},
